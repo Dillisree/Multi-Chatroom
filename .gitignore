@@ -1,0 +1,8 @@
+.vs/
+*.suo
+*.vcxproj.user
+*.pdb
+*.ilk
+*.tlog
+Debug/
+
